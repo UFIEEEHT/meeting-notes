@@ -1,0 +1,16 @@
+Meeting notes:
+
+-We have solar park, but we won't go until we start building
+-training for safety for using equipment
+
+Rules:
+-Went over rules and details for each robot and arena from github page: https://github.com/ncgadgetry/southeastcon2020
+-design meeting planned for next week
+-will rebuild arena when we get to solar park
+-hold off on purchasing arcade buttons for robot due to issues with sticking
+-no team size so anyone can be around the robot
+-get points just from pressing any buttons, but more points for hitting buttons correctly
+-they are still adding new rules
+-there is a discord for SoutheastCon 2020: https://discord.gg/HQsgdq
+-will split between software and hardware that will handle both robots
+-we are not going to use ROS, maybe use TI (sensor level logic)
