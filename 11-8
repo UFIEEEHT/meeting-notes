@@ -1,0 +1,37 @@
+
+DFRobot SEN0101 TSC3200 - RBG Color Sensor
+  Raspberry Pi / Microcontroller
+  Python
+  
+  Light --> Photodiode --> Current/Frequency Generator --> 12 Bit Counter --> Microcontroller processes Raw Data
+  
+  https://wiki.dfrobot.com/TCS3200_Color_Sensor__SKU_SEN0101_
+  
+  see Khalid and Sam's power point in google drive
+  
+  
+Navigation
+  Ross - Block Stacking
+
+  Phoebe - Button Pushing
+  
+  MSP430 in order for cost and ease of developement 
+  
+  See Thomas or Jake presentation in google drive 
+  
+Claw 
+  See Juans/ Hannah Presentation
+  
+  
+Wheels
+  See Juans/ Hanna Presentation
+  
+Motor Controllers
+  1. 
+  2. PWM
+  3.
+  Talk to Alan
+  
+Google Form for Meeting Time
+Google Form for forming teams
+
